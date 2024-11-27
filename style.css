@@ -1,0 +1,44 @@
+.navigationn{
+    margin-left: 400px;
+}
+.navv{
+    width: 1300px;
+    height: 70px;
+    background-color: #8ca4a4;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.pages{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #5c7ca4;
+}
+.pages :hover{
+    color: #8ca4a4;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.full{
+    display: flex;
+    flex-direction: row;
+;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+
+}
+.left{
+    display: flex;
+    flex-direction: column;
+
+}
